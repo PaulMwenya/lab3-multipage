@@ -1,8 +1,11 @@
 Lab 3 - Multipage Website
 
 Group Members
-•	Paul Mwenya
-•	Moses Mwenya
+
+Paul Mwenya
+
+Moses Mwenya
+
 Project Description
 This project is a multi-page website built using HTML5 and CSS3. It follows modern web development best practices, including Flexbox, Grid, media queries, and animations to ensure a fully responsive and visually appealing design.
 Page Descriptions
